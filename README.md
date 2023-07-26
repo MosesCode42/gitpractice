@@ -1,4 +1,4 @@
-### Git And Github Tutorialscls
+### Git And Github Tutorials
 
 ## Moses Omondi
 
